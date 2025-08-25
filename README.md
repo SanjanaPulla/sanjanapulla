@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there 👋 I'm Sanjana
 
 🌱 I’m currently learning: Git and GitHub
