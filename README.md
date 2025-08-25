@@ -1,4 +1,9 @@
 ## Hi there 👋
+# Hi there 👋 I'm Sanjana
+
+🌱 I’m currently learning: Git and GitHub
+💡 Fun fact: I love kpop
+
 
 <!--
 **SanjanaPulla/sanjanapulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
